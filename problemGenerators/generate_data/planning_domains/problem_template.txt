@@ -1,0 +1,15 @@
+(define (problem maze) (:domain maze)
+  (:objects
+    #add_locations
+	player-1 - player
+  )
+  (:init 
+	#add_player_location)
+    #add_goal_location
+	#add_clear_locations
+    #add_location_connectivity
+	
+	(oriented-right player-1)
+  )
+  #add_goal_str
+)

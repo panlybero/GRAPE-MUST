@@ -1,0 +1,6 @@
+(move-right player-1 loc-5-4 loc-5-5)
+(move-up player-1 loc-5-5 loc-4-5)
+(move-up player-1 loc-4-5 loc-3-5)
+(move-left player-1 loc-3-5 loc-3-4)
+(move-up player-1 loc-3-4 loc-2-4)
+(move-left player-1 loc-2-4 loc-2-3)
